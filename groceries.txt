@@ -7,3 +7,4 @@ Quarantine Groceries:
 - Strawberry ice-cream
 - Canned beans
 - Butter
+- Eggs

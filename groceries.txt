@@ -8,3 +8,4 @@ Quarantine Groceries:
 - Canned beans
 - Butter
 - Eggs
+- More toilet paper
